@@ -1,0 +1,6 @@
+ffmpeg
+git+https://github.com/openai/whisper.git
+transformers
+wavio
+sounddevice
+
